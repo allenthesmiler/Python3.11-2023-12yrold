@@ -1,0 +1,5 @@
+#my first python project age = 12  :)
+num1 = input("1st number: ")
+num2 = input("2nd number: ")
+result = float(num1) + float(num2)
+print(result)
